@@ -5,16 +5,16 @@
   </head>
   
   <body>
-    <div>
+    <div  align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!!%20I'm%20Changsoon&fontSize=50" />
     </div>
-    <div>
+    <div  align="center">
       <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
       Follow me
       <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
     </div>
     <br>
-    <div>
+    <div  align="center">
       <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>
       Tech Stack
       <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>
