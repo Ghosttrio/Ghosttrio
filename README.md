@@ -1,21 +1,25 @@
 <html>
 
   <head>
-    
+    <style>
+      h5 {
+        margin: 0;
+      }
+    </style>
   </head>
   
   <body>
     <div  align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!!&fontSize=70" />
-      <h1 align="right">Changsoon's Github
+      <h5 align="right">Changsoon's Github</h5>
     </div>
-    <div  align="center">
+    <div align="center" style="font-size: 20px;">
       <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
       Follow me
       <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
     </div>
     <br>
-    <div  align="center">
+    <div  align="center" style="font-size: 20px;">
       <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>
       Tech Stack
       <g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji>
