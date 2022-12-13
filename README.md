@@ -28,6 +28,10 @@
     <div align="center">
       <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
     </div>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />
+    </div>
   
   </body>
   
