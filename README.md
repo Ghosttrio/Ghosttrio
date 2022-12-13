@@ -6,7 +6,7 @@
   
   <body>
     <div  align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome!!&fontSize=70" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1000&height=200&section=header&text=Welcome!!&fontSize=70" />
       <h5 align="right" style="margin:0">Changsoon's Github</h5>
     </div>
     <div align="center" style="font-size: 20px; position:releative; right:40px">
