@@ -31,7 +31,7 @@
       
   </div>
   <br>
-  <div style="text-align: right;">
+  <div align="rigth">
     <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&amp;count_bg=%2379C83D&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=visited&amp;edge_flat=false" alt="Hits"></a></p>
   </div>
 </body>
