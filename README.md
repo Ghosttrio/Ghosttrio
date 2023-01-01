@@ -5,7 +5,7 @@
 </head>
 <body>
   <!-- 헤드 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&section=header&text=Changsoon's&nbsp;Github&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=200&section=header&text=Changsoon's&nbsp;Github&fontSize=60" />
   <!-- 기술스택 -->
   <div align="center">
     <h3>📚 Tech Stack 📚</h3>
@@ -26,8 +26,14 @@
   <br>
   <br>
   <div align="center">
+    <h3>💡 Contact 💡</h3>
+    ghosttrio@naver.com
+  </div>
+  <br>
+  <br>
+  <div align="center">
     <a href="https://solved.ac/ghosttrio"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio" alt="Solved.ac 프로필"></a>
-    <p><a href="https://github.com/Ghosttrio/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ghosttrio" alt="Ghosttrio&#39;s GitHub stats"></a>
+    <a href="https://github.com/Ghosttrio/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ghosttrio" alt="Ghosttrio&#39;s GitHub stats">
       
   </div>
   <br>
