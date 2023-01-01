@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    #java{
-      color : rgb(0, 115, 150)
-    }
-  </style>
 </head>
 <body>
   <!-- 헤드 -->
