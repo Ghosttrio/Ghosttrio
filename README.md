@@ -5,6 +5,7 @@
   </head>
   
   <body>
+     [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio)](https://solved.ac/ghosttrio)
     <div  align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1000&height=200&section=header&text=Welcome!!&fontSize=70" />
       <h5 align="right" style="margin:0">Changsoon's Github</h5>
@@ -15,7 +16,7 @@
       <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
     </div>
     <div>
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio@naver.com)](https://solved.ac/ghosttrio@naver.com)
+   
     </div>
     <br>
     <div  align="center" style="font-size: 21px;">
