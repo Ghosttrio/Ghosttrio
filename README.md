@@ -4,7 +4,7 @@
 </head>
 <body>
   <!-- 헤드 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=200&section=header&Changsoon's&nbsp;Github&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=200&section=header&text=Changsoon's&nbsp;Github&fontSize=60"/>
   <!-- 기술스택 -->
   <div align="center">
     <h3>📚 Tech Stack 📚</h3>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/>
     <br>
-    <img src="coffeecuplogoJava_5406.png" width="25" height="28" style="position: relative; left: 10px;"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+    <img src="image/ddd.png" width="25" height="28"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
