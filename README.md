@@ -1,4 +1,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio)](https://solved.ac/ghosttrio)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1000&height=200&section=header&text=Welcome!!&fontSize=70" />
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 <html>
 
   <head>
@@ -8,7 +10,7 @@
   <body>
      
     <div  align="center">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1000&height=200&section=header&text=Welcome!!&fontSize=70" />
+      
       <h5 align="right" style="margin:0">Changsoon's Github</h5>
     </div>
     <div align="center" style="font-size: 20px; position:releative; right:40px">
