@@ -7,7 +7,7 @@
   <!-- 헤드 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=300&section=header&text=Changsoon's&nbsp;Github&fontSize=60" />
   <!-- 기술스택 -->
-  <div style="text-align: center;">
+  <div align="center">
     <h3>📚 Tech Stack 📚</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -25,7 +25,7 @@
   </div>
   <br>
   <br>
-  <div style="text-align: center;">
+  <div align="center">
     <a href="https://solved.ac/ghosttrio"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio" alt="Solved.ac 프로필"></a>
     <p><a href="https://github.com/Ghosttrio/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ghosttrio" alt="Ghosttrio&#39;s GitHub stats"></a>
       
