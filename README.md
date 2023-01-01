@@ -15,7 +15,7 @@
       <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
     </div>
     <div>
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})]({https://solved.ac/profile/ghosttrio})
+    [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={ghosttrio})]({https://solved.ac/profile/ghosttrio})
     </div>
     <br>
     <div  align="center" style="font-size: 21px;">
