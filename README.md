@@ -5,7 +5,7 @@
 </head>
 <body>
   <!-- 헤드 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=200&section=header&Changsoon's&nbsp;Github&fontSize=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&width=100%&height=200&section=header&text=Changsoon's&nbsp;Github&fontSize=60"/>
   <!-- 기술스택 -->
   <div align="center">
     <h3>📚 Tech Stack 📚</h3>
