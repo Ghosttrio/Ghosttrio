@@ -1,3 +1,4 @@
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio)](https://solved.ac/ghosttrio)
 <html>
 
   <head>
@@ -5,7 +6,7 @@
   </head>
   
   <body>
-     [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio)](https://solved.ac/ghosttrio)
+     
     <div  align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=1000&height=200&section=header&text=Welcome!!&fontSize=70" />
       <h5 align="right" style="margin:0">Changsoon's Github</h5>
