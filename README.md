@@ -25,15 +25,10 @@
   </div>
   <br>
   <br>
-  <div align="center">
-    <h3>💡 Contact 💡</h3>
-    ghosttrio@naver.com
-  </div>
   <br>
-  <br>
-  <div align="center">
-    <a href="https://solved.ac/ghosttrio"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio" alt="Solved.ac 프로필" width="49%"></a>
-    <a href="https://github.com/Ghosttrio/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ghosttrio" alt="Ghosttrio&#39;s GitHub stats" width="49%">
+  <div align="center"> 
+    <a href="https://github.com/Ghosttrio/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ghosttrio" alt="Ghosttrio&#39;s GitHub stats" width="30%">
+    <a href="https://solved.ac/ghosttrio"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio" alt="Solved.ac 프로필" width="25%"></a>
   </div>
   <br>
   <div align="right">
