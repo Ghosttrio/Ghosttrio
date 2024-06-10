@@ -5,7 +5,7 @@
 - 모르는 것과 아는 것을 구분하여 부족한 부분을 채워 나갑니다.
 
 ### Tech Stack
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FJava-007396%3Fstyle%3Dflat-square%26logo%3DJava%26logoColor%3Dwhite)
+Java, Spring
 
 
 [블로그](https://ghosttrio.github.io) | [노션]()
