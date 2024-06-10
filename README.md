@@ -4,6 +4,6 @@
 - 학습한 기술을 빠르게 적용하고 깊이를 더 하는 것을 루틴화합니다.
 - 모르는 것과 아는 것을 구분하여 부족한 부분을 채워 나갑니다.
 
-[블로그]([https://ghosttrio.github.io](https://ghosttrio.github.io/)) | [노션]()
+[블로그](https://ghosttrio.github.io) | [노션]()
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhosttrio&count_bg=%23353733&title_bg=%2300BC84&icon=&icon_color=%23289CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
