@@ -12,6 +12,9 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+#### Contack
+***Email.*** [ghosttrio@naver.com](ghosttrio@naver.com)
+
 #### Channel
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Blog](https://img.shields.io/badge/Blog-FF7200?style=for-the-badge&logo=bloglovin&logoColor=white")
