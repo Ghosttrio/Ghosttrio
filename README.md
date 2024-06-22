@@ -9,7 +9,7 @@
 Java, Spring, JPA, MySQL
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Blog](https://img.shields.io/badge/Blog-FF7200?style=for-the-badge&logo=bloglovin&logoColor=white")
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhosttrio&count_bg=%23353733&title_bg=%2300BC84&icon=&icon_color=%23289CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
