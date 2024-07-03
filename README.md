@@ -1,6 +1,6 @@
 ##### 🙂 안녕하세요! 백엔드 개발자 박창순입니다.
 
-- [블로그](https://ghosttrio.github.io), [깃허브](https://github.com/Ghosttrio), [노션](https://www.notion.so/43abac685fd946909f27ffdb10b88441?pvs=4) 등 **개발 향상심** 가지고 **꾸준히 기록**을 하여 개발 역량을 키워왔습니다 .
+- [블로그](https://ghosttrio.github.io), [깃허브](https://github.com/Ghosttrio), 노션<!--[노션](https://www.notion.so/43abac685fd946909f27ffdb10b88441?pvs=4)--> 등 **개발 향상심** 가지고 **꾸준히 기록**을 하여 개발 역량을 키워왔습니다 .
 - 실무 경험과 대외 활동 경험을 통해 **원활한 소통**이 가능합니다.
 - 스타트업 환경에서 **스스로 업무를 주도**하며 팀 공동 목표에 기여했습니다.
 - **읽기 좋은** 코드, **쉽고 간단한** 코드가 좋은 코드라고 생각합니다.
@@ -16,7 +16,7 @@
 Email [ghosttrio@naver.com](ghosttrio@naver.com)
 
 ##### 📝 Channel
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 ![Blog](https://img.shields.io/badge/Blog-FF7200?style=for-the-badge&logo=bloglovin&logoColor=white")
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
