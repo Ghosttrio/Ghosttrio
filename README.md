@@ -14,7 +14,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ##### 📞 Contact
-Email `changlog0510@gmail.com`
+Email `ghosttrio.mail@gmail.com`
 
 ##### 📝 Channel
 <!-- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
