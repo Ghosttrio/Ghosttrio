@@ -25,4 +25,15 @@ Email `ghosttrio.mail@gmail.com`
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghosttrio/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhosttrio&count_bg=%23353733&title_bg=%2300BC84&icon=&icon_color=%23289CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+##### Project
+- 유도 매니저
+- 노션 비서
+- 슬랙 데일리 리포트
+- 배달 애플리케이션
+- 쇼핑몰
+- 기차 예매 
+- 수강 신청 
+- 스마트팜
+- 도서 예약
 -->
