@@ -28,3 +28,5 @@ Email `ghosttrio.mail@gmail.com`
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghosttrio/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhosttrio&count_bg=%23353733&title_bg=%2300BC84&icon=&icon_color=%23289CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghosttrio)](https://solved.ac/ghosttrio/) -->
