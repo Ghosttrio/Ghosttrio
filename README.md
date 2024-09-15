@@ -1,9 +1,9 @@
 ##### Project
-![수학맞츔](https://play.google.com/store/apps/details?id=com.matchuum.chaorda) (2023 ~ )
-![유도매니저](https://github.com/Ghosttrio/judo-manager) (2024) 
-![스마트팜매니저](https://github.com/Ghosttrio/smart-farm-manager) (2024) 
-![동아리매니저](https://github.com/Ghosttrio/club-manager) (2024) 
-![WithSlack](https://github.com/Ghosttrio/with-slack) (2024)
+[수학맞츔](https://play.google.com/store/apps/details?id=com.matchuum.chaorda) (2023 ~ )    
+[유도매니저](https://github.com/Ghosttrio/judo-manager) (2024)     
+[스마트팜매니저](https://github.com/Ghosttrio/smart-farm-manager) (2024)     
+[동아리매니저](https://github.com/Ghosttrio/club-manager) (2024)      
+[WithSlack](https://github.com/Ghosttrio/with-slack) (2024)     
 
 ##### Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
