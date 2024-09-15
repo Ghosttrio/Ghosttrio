@@ -1,11 +1,11 @@
-##### Project
-[수학맞츔](https://play.google.com/store/apps/details?id=com.matchuum.chaorda) (2023 ~ )    
-[유도매니저](https://github.com/Ghosttrio/judo-manager) (2024)     
-[스마트팜매니저](https://github.com/Ghosttrio/smart-farm-manager) (2024)     
-[동아리매니저](https://github.com/Ghosttrio/club-manager) (2024)      
-[WithSlack](https://github.com/Ghosttrio/with-slack) (2024)     
+#### Project
+- [수학맞츔](https://play.google.com/store/apps/details?id=com.matchuum.chaorda) (2023~) - 과외 매칭 애플리케이션    
+- [유도매니저](https://github.com/Ghosttrio/judo-manager) (2024) - 유도장 관리 플랫폼     
+- [스마트팜매니저](https://github.com/Ghosttrio/smart-farm-manager) (2024) - 스마트팜 관리 플랫폼     
+- [동아리매니저](https://github.com/Ghosttrio/club-manager) (2024) - 동아리 관리 플랫폼      
+- [WithSlack](https://github.com/Ghosttrio/with-slack) (2024) - 다양한 슬랙 메시지 전송 프로젝트     
 
-##### Tech Stack
+#### Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,10 +20,10 @@
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 
-##### Contact
+#### Contact
 Email `ghosttrio.mail@gmail.com`
 
-##### Channel
+#### Channel
 [![Blog](https://img.shields.io/badge/Blog-FF7200?style=for-the-badge&logo=bloglovin&logoColor=white")](https://ghosttrio.github.io/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghosttrio/)
 
