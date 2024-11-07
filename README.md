@@ -3,7 +3,7 @@
 - [유도매니저](https://github.com/Ghosttrio/judo-manager) (2024) - 유도장 관리 플랫폼     
 - [스마트팜매니저](https://github.com/Ghosttrio/smart-farm-manager) (2024) - 스마트팜 관리 플랫폼     
 - [동아리매니저](https://github.com/Ghosttrio/club-manager) (2024) - 동아리 관리 플랫폼      
-- [WithSlack](https://github.com/Ghosttrio/with-slack) (2024) - 다양한 슬랙 메시지 전송 프로젝트     
+- [Slack API](https://github.com/Ghosttrio/slack-api) (2024) - 다양한 슬랙 메시지 전송 프로젝트     
 - [BadWordFiltering](https://github.com/Ghosttrio/bad-words-filtering) (2024) - 비속어 필터링 라이브러리
   
 #### Tech Stack
