@@ -5,7 +5,7 @@
 #### Project
 - [수학맞츔(MATCHuuM)](https://www.matchuum.ai/) (2023~) - 과외 매칭 애플리케이션    
 - [유도매니저](https://github.com/Ghosttrio/judo-manager) (2024) - 유도장 관리 서비스
-- [길바닥](https://github.com/Ghosttrio/gilbadak) (2024) - 버스킹 동아리 관리 서비스
+<!-- - [길바닥](https://github.com/Ghosttrio/gilbadak) (2024) - 버스킹 동아리 관리 서비스 -->
 
 #### Contact
 Email `ghosttrio.mail@gmail.com`
