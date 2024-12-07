@@ -2,10 +2,10 @@
 안녕하세요! 백엔드 개발자 박창순입니다.     
 개발 기술이나 아키텍처, 방법론 등을 배우고 적용하는 것을 좋아합니다.
 
-#### Project
+<!-- #### Project
 - [수학맞츔(MATCHuuM)](https://www.matchuum.ai/) (2023~) - 과외 매칭 애플리케이션    
 - [유도매니저](https://github.com/Ghosttrio/judo-manager) (2024) - 유도장 관리 서비스
-<!-- - [길바닥](https://github.com/Ghosttrio/gilbadak) (2024) - 버스킹 동아리 관리 서비스 -->
+- [길바닥](https://github.com/Ghosttrio/gilbadak) (2024) - 버스킹 동아리 관리 서비스 -->
 
 #### Contact
 Email `ghosttrio.mail@gmail.com`
