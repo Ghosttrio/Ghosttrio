@@ -7,12 +7,12 @@
 - [유도매니저](https://github.com/Ghosttrio/judo-manager) (2024) - 유도장 관리 서비스
 - [길바닥](https://github.com/Ghosttrio/gilbadak) (2024) - 버스킹 동아리 관리 서비스 -->
 
-#### Skills
+<!-- #### Skills
 - Java, Kotiln
 - Spring Framework, Spring Boot, Spring Security, Spring Data JPA
 - JPA, QueryDSL
 - MySQL
-- Docker
+- Docker -->
 
 #### Contact
 Email `ghosttrio.mail@gmail.com`
